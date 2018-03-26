@@ -10,4 +10,5 @@ A prototype of Universal Healthcare System developed during HACK-JMI Hackathon o
 ![alt text](screenshots/s5.png "Patient can view his/her entire health history,")
 ![alt text](screenshots/s6.png "View doctor's profile to ensure transparency.")
 
-[![Watch the video](https://raw.githubusercontent.com/huzaifaiftikhar/Lifeline/master/screenshots/Screenshot_20180325-001409.png)](https://photos.app.goo.gl/aP7XZzLzqUBlGEPU2)
+## Watch the video
+[![Watch the video](https://raw.githubusercontent.com/huzaifaiftikhar/Lifeline/master/screenshots/preview.png)](https://photos.app.goo.gl/aP7XZzLzqUBlGEPU2)
