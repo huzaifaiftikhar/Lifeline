@@ -12,3 +12,16 @@ A prototype of Universal Healthcare System developed during HACK-JMI Hackathon o
 
 ## Watch the video
 [![Watch the video](https://raw.githubusercontent.com/huzaifaiftikhar/Lifeline/master/screenshots/preview.png)](https://photos.app.goo.gl/aP7XZzLzqUBlGEPU2)
+
+## Contributors
+
+- [Abdul Wadood](https://github.com/abdulwd)
+- [Huzaifa Iftikhar](https://github.com/huzaifaiftikhar)
+- [Henry Kunjumon](https://www.behance.net/henryk81303eb7)
+
+## Libraries used
+
+- http://jakewharton.github.io/butterknife/
+- https://github.com/hdodenhof/CircleImageView
+- https://github.com/vipulasri/Timeline-View
+- https://github.com/firebase/FirebaseUI-Android
